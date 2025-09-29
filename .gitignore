@@ -1,8 +1,3 @@
 **/*.log
 .DS_Store
 .ipynb_checkpoints
-# Conda environment builds
-*.lock
-*.yml.lock
-.env/
-venv/
